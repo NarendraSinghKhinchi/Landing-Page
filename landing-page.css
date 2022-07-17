@@ -1,0 +1,31 @@
+body{
+   background-color: rgb(245, 241, 224);
+}
+div{
+    width: 35%;
+    margin: 15px auto ;
+    padding : 50px ;
+    background-color: cornsilk;
+}
+.product-image{
+    width: 200px;
+    float: left;
+    padding-right: 30px;
+}
+p{
+    line-height: 2;
+}
+.before{
+    margin-left: 250px;
+}
+.price-cut{
+    display: inline-block;
+    text-decoration: line-through;
+    margin-left: 60px;
+}
+h1{
+    display: inline-block;
+}
+.btn{
+    display: block;
+}
